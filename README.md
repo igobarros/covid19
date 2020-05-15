@@ -1,0 +1,13 @@
+# Projeto COVID19 - Prevendo internações a partir de informações de leitos
+
+## Problema
+...
+
+## Objetivo
+...
+
+## Descrição do projeto
+...
+
+# Mais informações
+...
